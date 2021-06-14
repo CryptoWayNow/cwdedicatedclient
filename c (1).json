@@ -1,0 +1,29 @@
+{
+  "AppVersion": "1.7.0.0",
+  "DownloadURL": "https://www.dropbox.com/s/7hu7qc41bd8fk26/SmartUpdater.exe?dl=1",
+  "UpdaterHash": "ef38653d029c9b855035de18c7a66b92",
+  "Message": "no",
+  "services": [
+    {
+      "Name": "OBFS2",
+      "Port": "21101"
+    },
+    {
+      "Name": "OBFS3",
+      "Port": "21102"
+    },
+    {
+      "Name": "FTE",
+      "Port": "21103"
+    },
+    {
+      "Name": "B64",
+      "Port": "21104"
+    }
+    ,
+    {
+      "Name": "TunnelPlus",
+      "Port": "444"
+    }
+  ]
+}
